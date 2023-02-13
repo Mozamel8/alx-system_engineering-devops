@@ -6,3 +6,4 @@ Display the last 10 lines of /etc/passwd
 Display the first 10 lines of /etc/passwd
 script display third line of code
 Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\
+Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten
