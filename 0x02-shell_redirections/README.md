@@ -11,3 +11,4 @@ duplicate last line of iacta
 a script that deletes all the regular files (not the directories) with a .js extension that are present
 ascript to print number of directories
 te a script that displays the 10 newest files in the current directory
+ a script that takes a list of words as input and prints only words that appear exactly once.
